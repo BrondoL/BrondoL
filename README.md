@@ -11,16 +11,17 @@ Enjoy your visit folks!!
 📙 I’m currently learning on **WEB DEVELOPMENT**...
 
 ## 📫 You can reach me via :
-  <a href="https://www.linkedin.com/in/aulia-ahmad-nabil-2b241b174" target="_blank">
-    <img align="left" alt="BrondoL's LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
-  </a>
-  <a href="https://www.instagram.com/auliaahmadnabil/" target="_blank">
-    <img align="left" alt="BrondoL's Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>
-  </a>
-  <a href="mailto:nabilunited2@gmail.com" target="_blank">
-    <img align="left" alt="BrondoL's E-Mail" width="30px" src="https://image.flaticon.com/icons/png/512/281/281769.png"   />
-  </a>
-  
+<a href="https://www.linkedin.com/in/aulia-ahmad-nabil-2b241b174" target="_blank">
+  <img align="left" alt="BrondoL's LinkedIn" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+</a>
+<a href="https://www.instagram.com/auliaahmadnabil/" target="_blank">
+  <img align="left" alt="BrondoL's Instagram" width="30px" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>
+</a>
+<a href="mailto:nabilunited2@gmail.com" target="_blank">
+  <img align="left" alt="BrondoL's E-Mail" width="30px" src="https://image.flaticon.com/icons/png/512/281/281769.png"/>
+</a>
+
+.  
 ## GITHUB STATS 📈
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=BrondoL&line_height=27&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true" />
