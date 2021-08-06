@@ -1,14 +1,6 @@
-### Hello there, My name is BrondoL <img src="https://media.giphy.com/media/ekeXXN8CG7xEavr6rP/giphy.gif" width="20px">  <img src="https://media.giphy.com/media/VCst7uRnCOx6asgvqj/giphy.gif" width="20px">
+### Hello there, My name is Aulia Ahmad Nabil..
 
-I am an **Computer Science** Student at Universitas Lampung <img src="https://media.giphy.com/media/cAcofT0wwuRnwZ8PGE/giphy.gif" width="20px">
-
-Here you'll find all of my works, including my projects or anything that catch my interest ❤
-
-Please noted that I'm not better than any of you guys, because i created this account in order to improve my knowledge not flexing about it 😅
-
-Enjoy your visit folks!!
-
-📙 I’m currently learning on **WEB DEVELOPMENT**...
+I have an interesting in programming, especially in developing web based information system. I'm very tenacious person in analyzing a problem. I'm a fast learner. It makes the project i work on faster. i've been learning about web developers for 2 years, and right now I'm looking forward to collaborating with you. ❤
 
 ## 📫 You can reach me via :
 <a href="https://www.linkedin.com/in/aulia-ahmad-nabil-2b241b174" target="_blank">
