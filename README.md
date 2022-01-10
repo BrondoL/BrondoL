@@ -14,14 +14,14 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </p>
 
-## 📊 GITHUB STATS 
+## 📊 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrondoL&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff" />
   <br />
   <a href="https://github.com/BrondoL"><img alt="Aulia Ahmad Nabil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrondoL&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff" /></a>
  </p>
 
-## 🎵 MUSIC
+## 🎵 Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc7vio8jwsp40r5nqmhj2dxtt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=pc7vio8jwsp40r5nqmhj2dxtt&redirect=true)
 
 ### 📫 Contact Me
