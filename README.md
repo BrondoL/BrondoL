@@ -30,6 +30,8 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/auliaahmad.nabil)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/auliaahmadnabil/)
 [![GMail Badge](https://img.shields.io/badge/-Gmail-D1483E?style=flat-square&logo=Gmail&logoColor=white)](mailto:nabilunited2@gmail.com)
+<br>
+<a href="https://www.codewars.com/users/BrondoL/"><img src="https://www.codewars.com/users/BrondoL/badges/large"/></a>
 
 ## ❤ Views and Followers
 <img src="https://komarev.com/ghpvc/?username=BrondoL">
