@@ -1,6 +1,6 @@
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/BrondoL">Aulia Ahmad Nabil</a></h1>
 
-<h3 align="center">I am a Full-Stack Engineer but focus more on backend specialist. I've been in web development for 3 years.</h3>
+<h3 align="center">I am a backend software engineer. I've been in web development for 3.5 years.</h3>
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
