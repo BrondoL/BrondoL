@@ -1,6 +1,6 @@
 <h1 align="center">Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/BrondoL">Aulia Ahmad Nabil</a></h1>
 
-<h3 align="center">I am a backend software engineer. I've been in web development for 3.5 years.</h3>
+<h3 align="center">I'm a Backend Software Engineer.</h3>
 
 ## 🚀 Languages and Tools:
 <p align="left"> 
