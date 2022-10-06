@@ -15,9 +15,8 @@
 </p>
 
 ## 📊 Github Stats
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrondoL&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff" />
-  <br />
   <a href="https://github.com/BrondoL"><img alt="Aulia Ahmad Nabil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrondoL&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff" /></a>
  </p>
 
