@@ -16,8 +16,10 @@
 
 ## 📊 Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrondoL&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff" />
-  <a href="https://github.com/BrondoL"><img alt="Aulia Ahmad Nabil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrondoL&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=58a6ff" /></a>
+  <a href="https://github.com/brondol">
+    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brondol&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&title_color=58a6ff" />
+    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brondol&langs_count=10&count_private=true&layout=compact&theme=vision-friendly-dark&title_color=58a6ff" />
+  </a>
  </p>
 
 ## 🎵 Music
