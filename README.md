@@ -1,4 +1,4 @@
-<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/BrondoL">Aulia Ahmad Nabil</a></h1>
+<h1 align="center">Hi There, I'm <a href="https://github.com/BrondoL">Aulia Ahmad Nabil</a></h1>
 
 ## 🚀 Tech Stack:
 <details>
