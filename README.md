@@ -2,7 +2,9 @@
 
 ## 🚀 Tech Stack:
 <details>
-  <summary><h3>Front-end</h3></summary>
+  <summary>
+    <strong>Front-end</strong>
+  </summary>
   
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -22,7 +24,9 @@
 </details>
 
 <details>
-  <summary><h3>Back-end</h3></summary>
+  <summary>
+    <strong>Back-end</strong>
+  </summary>
   
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -38,7 +42,9 @@
 </details>
   
 <details>
-  <summary><h3>DevOps</h3></summary>
+  <summary>
+    <strong>DevOps</strong>
+  </summary>
   
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
