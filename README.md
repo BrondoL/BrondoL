@@ -86,4 +86,4 @@
 <img src="https://komarev.com/ghpvc/?username=BrondoL">
 <a href="https://github.com/BrondoL?tab=followers"><img src="https://img.shields.io/github/followers/BrondoL?label=Followers&style=social" alt="GitHub Badge"></a>
 
-[![@brondol's Holopin board](https://holopin.io/api/user/board?user=brondol)](https://holopin.io/@brondol)
+[![An image of @brondol's Holopin badges](https://holopin.me/brondol)](https://holopin.io/@brondol)
