@@ -73,9 +73,6 @@
   </a>
  </p>
 
-## 🎵 Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pc7vio8jwsp40r5nqmhj2dxtt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=pc7vio8jwsp40r5nqmhj2dxtt&redirect=true)
-
 ### 📫 Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/auliaahmadnabil/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://brondol.github.io/)
@@ -88,3 +85,5 @@
 ## ❤ Views and Followers
 <img src="https://komarev.com/ghpvc/?username=BrondoL">
 <a href="https://github.com/BrondoL?tab=followers"><img src="https://img.shields.io/github/followers/BrondoL?label=Followers&style=social" alt="GitHub Badge"></a>
+
+[![@brondol's Holopin board](https://holopin.io/api/user/board?user=brondol)](https://holopin.io/@brondol)
